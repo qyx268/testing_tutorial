@@ -44,4 +44,4 @@ before_script:
 
 script:
     - cd tests/
-    - python test.py
+    - python tests.py
